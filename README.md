@@ -16,6 +16,7 @@
 * #### Section 4. Oscillations
 ### Part II. Motion on a plane trajectory
 * #### Section 1. Projectile motion
+    * [Simulating projectile motion](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section01/2-1-3-ProjectileMotionSimulation.ipynb) 
 * #### Section 2. Circular motion
 ### Part III. Support topics
 * #### Section 1. Trigonometry
