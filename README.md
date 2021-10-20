@@ -4,12 +4,12 @@
 
 ### Part I. Motion along a straight line
 * #### Section 1. Motion with Constant Velocity
-     * [Reaction distance, reaction time](https://github.com/POSS-UniMe/TestRepo/blob/master/Chapter01/Section01/1-1-1-ReactionDistance.ipynb)
-     * [Ultrasonic distance sensor](https://github.com/POSS-UniMe/TestRepo/blob/master/Chapter01/Section01/1-1-2-DistanceSensor.ipynb)
-     * [Earth-to-Moon distance](https://github.com/POSS-UniMe/TestRepo/blob/master/Chapter01/Section01/1-1-3-EarthToMoonDistance.ipynb)
-     * [Long Distance Communications](https://github.com/POSS-UniMe/TestRepo/blob/master/Chapter01/Section01/1-1-4-LongDistanceCommunications.ipynb)
+     * [Reaction distance, reaction time](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section01/1-1-1-ReactionDistance.ipynb)
+     * [Ultrasonic distance sensor](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section01/1-1-2-DistanceSensor.ipynb)
+     * [Earth-to-Moon distance](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section01/1-1-3-EarthToMoonDistance.ipynb)
+     * [Long Distance Communications](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section01/1-1-4-LongDistanceCommunications.ipynb)
 * #### Section 2. Motion with Constant Acceleration
-    * [Free fall](https://github.com/POSS-UniMe/TestRepo/blob/master/Chapter01/Section02/1-2-1-FreeFall.ipynb)
+    * [Free fall](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section02/1-2-1-FreeFall.ipynb)
     * The acceleration of a car
     * Airplane landing
 * #### Section 3. Experiments and data analysis
