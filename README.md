@@ -2,7 +2,7 @@
     
 ## Examples and exercises on elementary Physics
 
-    A companion site in Italian language is available [here](https://github.com/POSS-UniMe/simple-physics-with-Python-ITA)
+    A companion site in Italian language is available [test](www.unime.it) [here](https://github.com/POSS-UniMe/simple-physics-with-Python-ITA)
 
 ### Part I. Motion along a straight line
 * #### Section 1. Motion with Constant Velocity
