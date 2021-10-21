@@ -1,4 +1,4 @@
-# Simple physics with Python (ENGLISH version)
+# Simple physics with Python
     
 ## Examples and exercises on elementary Physics
 
