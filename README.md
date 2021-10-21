@@ -2,6 +2,8 @@
     
 ## Examples and exercises on elementary Physics
 
+    A companion site in Italian language is available [here](https://github.com/POSS-UniMe/simple-physics-with-Python-ITA)
+
 ### Part I. Motion along a straight line
 * #### Section 1. Motion with Constant Velocity
      * [Reaction distance, reaction time](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section01/1-1-1-ReactionDistance.ipynb)
