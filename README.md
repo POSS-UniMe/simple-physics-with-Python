@@ -15,6 +15,7 @@
     * [The acceleration of a car](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section02/1-2-2-CarAcceleration.ipynb)
     * [Airplane landing](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section02/1-2-3-AirplaneLanding.ipynb)
 * #### Section 3. Experiments and data analysis
+    * [A trip on a lift](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section03/1-3-1-TripOnALift.ipynb)
 * #### Section 4. Oscillations
 ### Part II. Motion on a plane trajectory
 * #### Section 1. Projectile motion
