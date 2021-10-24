@@ -51,6 +51,8 @@ For running the Python scripts contained in the Jupyter **Notebooks** of this co
 
 We also suggest you to install the Anaconda package (Individual Edition), dowload a clone of the repository, and run the notebooks on your machine. 
 
+> ###      Enjoy!
+
 &nbsp;
 
 ### Copyright and License
