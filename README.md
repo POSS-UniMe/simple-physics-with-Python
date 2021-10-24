@@ -37,6 +37,12 @@ by Lorena A. Barba e Natalia C. Clementi
 
 &nbsp;
 
+
+### For interested users
+We also suggest you to install the Anaconda package (Individual Edition), dowload a clone of the repository, and run the notebooks on your machine. 
+
+&nbsp;
+
 ### Copyright and License
 --------------------------
 (c) 2021 Andrea Mandanici, Giuseppe Mandaglio, Giovanni Pirrotta, Valeria Conti Nibali, Giacomo Fiumara - **P**hysics with **O**pen **S**ource **S**oftware - UniMe (Università di Messina). All content is under Creative Common Attribution  <a rel="license" href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0<a/> 
