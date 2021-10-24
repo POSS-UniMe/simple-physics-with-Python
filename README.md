@@ -16,13 +16,18 @@
     * [Airplane landing](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section02/1-2-3-AirplaneLanding.ipynb)
 * #### Section 3. Experiments and data analysis
     * [A trip on a lift](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section03/1-3-1-TripOnALift.ipynb)
+    * Motion along an inclined plane
 * #### Section 4. Oscillations
+    * Experiment
+    * Model
 ### Part II. Motion on a plane trajectory
 * #### Section 1. Projectile motion
     * [Simulating projectile motion](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section01/2-1-3-ProjectileMotionSimulation.ipynb) 
 * #### Section 2. Circular motion
 ### Part III. Support topics
 * #### Section 1. Trigonometry
+    * Measuring angles
+    * Trigonometric functions
 * #### Section 2. Vectors
 ### Part IV. Further on
 * #### Section 1. Circular motion
