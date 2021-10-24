@@ -40,11 +40,9 @@ by Lorena A. Barba e Natalia C. Clementi
 
 ### For interested users
 
-> For running the Python scripts contained in the **Notebooks** of this collection even if Python and Jupyter are not installed on your device, you can use the **binder** environment online
+For running the Python scripts contained in the Jupyter **Notebooks** of this collection even if Python and Jupyter are not installed on your device, you can use the **binder** environment online
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/POSS-UniMe/simple-physics-with-Python/HEAD)
-
-&nbsp;
 
 We also suggest you to install the Anaconda package (Individual Edition), dowload a clone of the repository, and run the notebooks on your machine. 
 
