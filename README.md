@@ -16,7 +16,7 @@
     * [Airplane landing](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section02/1-2-3-AirplaneLanding.ipynb)
 * #### Section 3. Experiments and data analysis
     * [A trip on a lift](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section03/1-3-1-TripOnALift.ipynb)
-    * Motion along an inclined plane
+    * [Motion along an inclined plane](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section03/1-3-2-InclinedPlane.ipynb)
 * #### Section 4. Oscillations
     * Experiment
     * Model
