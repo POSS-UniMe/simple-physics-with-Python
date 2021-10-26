@@ -18,7 +18,7 @@
     * [A trip on a lift](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section03/1-3-1-TripOnALift.ipynb)
     * [Motion along an inclined plane](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section03/1-3-2-InclinedPlane.ipynb)
 * #### Section 4. Oscillations
-    * Experiment
+    * [Experiments](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section04/1-4-1-OscillationsExp.ipynb)
     * Model
 ### Part II. Motion on a plane trajectory
 * #### Section 1. Projectile motion
