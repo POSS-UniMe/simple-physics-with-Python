@@ -29,8 +29,8 @@
     * [Uniform circular motion](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section02/2-2-1-UniformCircularMotion.ipynb)
 ### Part III. Support topics
 * #### Section 1. Trigonometry
-    * [Measuring angles](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section02/3-1-1-Trigonometry.ipynb)
-    * Trigonometric functions
+    * [Measuring angles](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter03/Section01/3-1-1-Trigonometry.ipynb)
+    * [Trigonometric functions](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter03/Section01/3-1-2-TrigonometricFunctions.ipynb)
 * #### Section 2. Vectors
 ### Part IV. Further on
 * #### Section 1. Circular motion
