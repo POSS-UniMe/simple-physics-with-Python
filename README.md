@@ -23,6 +23,7 @@
 ### Part II. Motion on a plane trajectory
 * #### Section 1. Projectile motion
     * Experiment on projectile motion
+        * Data acquisition, processing and analysis
     * Modelling projectile motion
     * [Simulating projectile motion](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section01/2-1-3-ProjectileMotionSimulation.ipynb) 
 * #### Section 2. Circular motion
