@@ -25,7 +25,7 @@
     * [Experiment on projectile motion](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section01/2-1-1-ProjectileMotionSimulation.ipynb)
         * Data acquisition, processing and analysis
     * Modelling projectile motion
-    * [Simulating projectile motion](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section01/2-1-3-ProjectileMotionSimulation.ipynb) 
+    * [Simulating projectile motion](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section01/2-1-3-ProjectileMotionExperiment.ipynb) 
 * #### Section 2. Circular motion
     * [Uniform circular motion](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section02/2-2-1-UniformCircularMotion.ipynb)
 ### Part III. Support topics
