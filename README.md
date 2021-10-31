@@ -36,7 +36,7 @@
     * [Trigonometric functions](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter03/Section01/3-1-2-TrigonometricFunctions.ipynb)
 * #### Section 2. Vectors
 ### Chapter 4. Further on
-* #### Section 1. Circular motion
+* #### Section 1. Oscillations
 * #### Section 2. Angular momentum
 * #### Section 3. Multiparticle systems - Center of mass
 
