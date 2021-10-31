@@ -4,7 +4,7 @@
 
 > ##### The ITALIAN version is available [here](https://github.com/POSS-UniMe/simple-physics-with-Python-ITA)
 
-### Part I. Motion along a straight line
+### Chapter 1. Motion along a straight line
 * #### Section 1. Motion with Constant Velocity
      * [Reaction distance, reaction time](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section01/1-1-1-ReactionDistance.ipynb)
      * [Ultrasonic distance sensor](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section01/1-1-2-DistanceSensor.ipynb)
@@ -20,7 +20,7 @@
 * #### Section 4. Oscillations
     * [Experiments](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section04/1-4-1-OscillationsExp.ipynb)
     * [Model](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section04/1-4-2-OscillationsModel.ipynb)
-### Part II. Motion on a plane trajectory
+### Chapter 2. Motion on a plane trajectory
 * #### Section 1. Projectile motion
     * [Experiment on projectile motion](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section01/2-1-1-ProjectileMotionExperiment.ipynb)
         * Data acquisition, processing and analysis
@@ -30,12 +30,12 @@
         * Launch angle, horizontal range, and safety area 
 * #### Section 2. Circular motion
     * [Uniform circular motion](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section02/2-2-1-UniformCircularMotion.ipynb)
-### Part III. Support topics
+### Chapter 3. Support topics
 * #### Section 1. Trigonometry
     * [Measuring angles](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter03/Section01/3-1-1-Trigonometry.ipynb)
     * [Trigonometric functions](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter03/Section01/3-1-2-TrigonometricFunctions.ipynb)
 * #### Section 2. Vectors
-### Part IV. Further on
+### Chapter 4. Further on
 * #### Section 1. Circular motion
 * #### Section 2. Angular momentum
 * #### Section 3. Multiparticle systems - Center of mass
