@@ -24,7 +24,7 @@
 * #### Section 1. Projectile motion
     * [Experiment on projectile motion](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section01/2-1-1-ProjectileMotionExperiment.ipynb)
         * Data acquisition, processing and analysis
-    * [Modelling projectile motion](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section01/2-1-1-ProjectileMotionModel.ipynb)
+    * [Modelling projectile motion](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section01/2-1-2-ProjectileMotionModel.ipynb)
         * Position, velocity, and velocity vector *in real time*
     * [Simulating projectile motion](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section01/2-1-3-ProjectileMotionExperiment.ipynb)
         * Launch angle, horizontal range, and safety area 
