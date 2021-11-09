@@ -26,7 +26,7 @@
         * Data acquisition, processing and analysis
     * [Modelling projectile motion](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section01/2-1-2-ProjectileMotionModel.ipynb)
         * Position, velocity, and velocity vector *in real time*
-    * [Simulating projectile motion](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section01/2-1-3-ProjectileMotionExperiment.ipynb)
+    * [Simulating projectile motion](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section01/2-1-3-ProjectileMotionSimulation.ipynb)
         * Launch angle, horizontal range, and safety area 
 * #### Section 2. Circular motion
     * [Uniform circular motion](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section02/2-2-1-UniformCircularMotion.ipynb)
