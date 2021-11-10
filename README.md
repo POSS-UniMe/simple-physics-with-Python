@@ -6,7 +6,7 @@
 
 ### Chapter 1. Motion along a straight line
 * #### Section 1. Motion with Constant Velocity
-     * [Reaction distance, reaction time](https://nbviewer.org/github.com/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter01/Section01/1-1-1-ReactionDistance.ipynb)
+     * [Reaction distance, reaction time](https://nbviewer.org/github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section01/1-1-1-ReactionDistance.ipynb)
      * [Ultrasonic distance sensor](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter01/Section01/1-1-2-DistanceSensor.ipynb)
      * [Earth-to-Moon distance](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section01/1-1-3-EarthToMoonDistance.ipynb)
      * [Long Distance Communications](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section01/1-1-4-LongDistanceCommunications.ipynb)
