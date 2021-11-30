@@ -8,8 +8,8 @@
 * #### Section 1. Motion with Constant Velocity
      * [Reaction distance, reaction time](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter01/Section01/1-1-1-ReactionDistance.ipynb)
      * [Ultrasonic distance sensor](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter01/Section01/1-1-2-DistanceSensor.ipynb)
-     * [Earth-to-Moon distance](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section01/1-1-3-EarthToMoonDistance.ipynb)
-     * [Long Distance Communications](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section01/1-1-4-LongDistanceCommunications.ipynb)
+     * [Earth-to-Moon distance](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter01/Section01/1-1-3-EarthToMoonDistance.ipynb)
+     * [Long Distance Communications](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter01/Section01/1-1-4-LongDistanceCommunications.ipynb)
 * #### Section 2. Motion with Constant Acceleration
     * [Free fall](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section02/1-2-1-FreeFall.ipynb)
     * [The acceleration of a car](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section02/1-2-2-CarAcceleration.ipynb)
