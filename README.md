@@ -8,32 +8,32 @@
 * #### Section 1. Motion with Constant Velocity
      * [Reaction distance, reaction time](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter01/Section01/1-1-1-ReactionDistance.ipynb)
      * [Ultrasonic distance sensor](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter01/Section01/1-1-2-DistanceSensor.ipynb)
-     * [Earth-to-Moon distance](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section01/1-1-3-EarthToMoonDistance.ipynb)
-     * [Long Distance Communications](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section01/1-1-4-LongDistanceCommunications.ipynb)
+     * [Earth-to-Moon distance](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section01/1-1-3-EarthToMoonDistance.ipynb)
+     * [Long Distance Communications](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section01/1-1-4-LongDistanceCommunications.ipynb)
 * #### Section 2. Motion with Constant Acceleration
-    * [Free fall](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section02/1-2-1-FreeFall.ipynb)
-    * [The acceleration of a car](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section02/1-2-2-CarAcceleration.ipynb)
-    * [Airplane landing](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section02/1-2-3-AirplaneLanding.ipynb)
+    * [Free fall](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section02/1-2-1-FreeFall.ipynb)
+    * [The acceleration of a car](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section02/1-2-2-CarAcceleration.ipynb)
+    * [Airplane landing](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section02/1-2-3-AirplaneLanding.ipynb)
 * #### Section 3. Experiments and data analysis
-    * [A trip on a lift](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section03/1-3-1-TripOnALift.ipynb)
-    * [Motion along an inclined plane](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section03/1-3-2-InclinedPlane.ipynb)
+    * [A trip on a lift](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section03/1-3-1-TripOnALift.ipynb)
+    * [Motion along an inclined plane](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section03/1-3-2-InclinedPlane.ipynb)
 * #### Section 4. Oscillations
-    * [Experiments](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section04/1-4-1-OscillationsExp.ipynb)
-    * [Model](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section04/1-4-2-OscillationsModel.ipynb)
+    * [Experiments](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section04/1-4-1-OscillationsExp.ipynb)
+    * [Model](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter01/Section04/1-4-2-OscillationsModel.ipynb)
 ### Chapter 2. Motion on a plane trajectory
 * #### Section 1. Projectile motion
-    * [Experiment on projectile motion](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section01/2-1-1-ProjectileMotionExperiment.ipynb)
+    * [Experiment on projectile motion](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section01/2-1-1-ProjectileMotionExperiment.ipynb)
         * Data acquisition, processing and analysis
-    * [Modelling projectile motion](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section01/2-1-2-ProjectileMotionModel.ipynb)
+    * [Modelling projectile motion](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section01/2-1-2-ProjectileMotionModel.ipynb)
         * Position, velocity, and velocity vector *in real time*
-    * [Simulating projectile motion](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section01/2-1-3-ProjectileMotionSimulation.ipynb)
+    * [Simulating projectile motion](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section01/2-1-3-ProjectileMotionSimulation.ipynb)
         * Launch angle, horizontal range, and safety area 
 * #### Section 2. Circular motion
-    * [Uniform circular motion](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section02/2-2-1-UniformCircularMotion.ipynb)
+    * [Uniform circular motion](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter02/Section02/2-2-1-UniformCircularMotion.ipynb)
 ### Chapter 3. Support topics
 * #### Section 1. Trigonometry
-    * [Measuring angles](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter03/Section01/3-1-1-Trigonometry.ipynb)
-    * [Trigonometric functions](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter03/Section01/3-1-2-TrigonometricFunctions.ipynb)
+    * [Measuring angles](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter03/Section01/3-1-1-Trigonometry.ipynb)
+    * [Trigonometric functions](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/Chapter03/Section01/3-1-2-TrigonometricFunctions.ipynb)
 * #### Section 2. Vectors
 ### Chapter 4. Further on
 * #### Section 1. Oscillations
