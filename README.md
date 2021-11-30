@@ -42,7 +42,7 @@
 
 &nbsp;
 
-### Acknowledgment
+### Acknowledgement
 This project has been realized following the example of the GitHub repo [Engineering Computations](https://github.com/engineersCode/EngComp)
 by Lorena A. Barba e Natalia C. Clementi
 
