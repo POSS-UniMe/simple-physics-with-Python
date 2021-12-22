@@ -39,7 +39,7 @@
 ### Chapter 4. Further on
 * #### Section 1. Oscillations
 * #### Section 2. Angular momentum
-    * [What is the angular momentum?](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter04/Section02/4-2-1-AngularMomentum.ipynb)
+    * [What is the angular momentum?](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter04/Section02/4-2-1-AngularMomentum.ipynb)
 * #### Section 3. Multiparticle systems
     * [Center of mass](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter04/Section03/4-3-1-CenterOfMass.ipynb)
 
