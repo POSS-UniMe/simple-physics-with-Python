@@ -35,7 +35,7 @@
     * [Measuring angles](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter03/Section01/3-1-1-Trigonometry.ipynb)
     * [Trigonometric functions](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter03/Section01/3-1-2-TrigonometricFunctions.ipynb)
 * #### Section 2. Vectors
-    * [Vector basics](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter03/Section02/3-2-1-VectorBasics.ipynb)
+    * [Vector basics](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter03/Section02/3-2-1-VectorBasics.ipynb)
 ### Chapter 4. Further on
 * #### Section 1. Oscillations
 * #### Section 2. Angular momentum
