@@ -58,7 +58,7 @@ For running the Python scripts contained in the Jupyter **Notebooks** of this co
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/POSS-UniMe/simple-physics-with-Python/HEAD)
 
-We also suggest you to install the Anaconda package (Individual Edition), dowload a clone of the repository, and run the notebooks on your machine. 
+We also suggest you to install the Anaconda package (Individual Edition), download a clone of the repository, and run the notebooks on your machine. 
 
 > ###      Enjoy!
 
