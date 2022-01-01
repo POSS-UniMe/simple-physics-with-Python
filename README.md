@@ -67,6 +67,6 @@ We also suggest you to install the Anaconda package (Individual Edition), downlo
 
 ### Copyright and License
 --------------------------
-(c) 2021 Andrea Mandanici, Giuseppe Mandaglio, Giovanni Pirrotta, Valeria Conti Nibali, Giacomo Fiumara - **P**hysics with **O**pen **S**ource **S**oftware - UniMe (Università di Messina). All content is under Creative Common Attribution  <a rel="license" href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0<a/> 
+(c) 2021, 2022 Andrea Mandanici, Giuseppe Mandaglio, Giovanni Pirrotta, Valeria Conti Nibali, Giacomo Fiumara - **P**hysics with **O**pen **S**ource **S**oftware - UniMe (Università di Messina). All content is under Creative Common Attribution  <a rel="license" href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0<a/> 
  and all code is under [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
 
