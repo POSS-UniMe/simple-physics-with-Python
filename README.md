@@ -38,7 +38,7 @@
     * [Vector basics](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter03/Section02/3-2-1-VectorBasics.ipynb)
 ### Chapter 4. Further on
 * #### Section 1. Oscillations
-    * [Oscillations and sound](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter04/Section01/4_1_1_Oscillations_and_sound.ipynb)
+    * [Oscillations and sound](http://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter04/Section01/4_1_1_Oscillations_and_sound.ipynb)
 * #### Section 2. Angular momentum
     * [What is the angular momentum?](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter04/Section02/4-2-1-AngularMomentum.ipynb)
 * #### Section 3. Multiparticle systems
