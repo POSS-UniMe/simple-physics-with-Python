@@ -16,7 +16,7 @@
     * [Airplane landing](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter01/Section02/1-2-3-AirplaneLanding.ipynb)
 * #### Section 3. Experiments and data analysis
     * [A trip on a lift](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter01/Section03/1-3-1-TripOnALift.ipynb)
-    * [Motion along an inclined plane](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter01/Section03/1-3-2-InclinedPlane.ipynb)
+    * [Motion along an inclined plane](https://github.com/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter01/Section03/1-3-2-InclinedPlane.ipynb)
 * #### Section 4. Oscillations
     * [Experiments](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter01/Section04/1-4-1-OscillationsExp.ipynb)
     * [Model](https://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python/blob/main/Chapter01/Section04/1-4-2-OscillationsModel.ipynb)
